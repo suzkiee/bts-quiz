@@ -1,6 +1,6 @@
 # Learn Hanbok with BTS 
 
-Practicing Javascript following [this guide by Yaphi Berhanu & James Hibbard](https://www.sitepoint.com/simple-javascript-quiz/). 
+Practicing Javascript following [this guide by Yaphi Berhanu & James Hibbard](https://www.sitepoint.com/simple-javascript-quiz/). I'm combining my love for BTS and my fascination with Korean historical fashion. 
 
 
 RoadMap
