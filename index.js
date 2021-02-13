@@ -1,5 +1,5 @@
-const quizContainer = document.getByElementId('quiz');
-const resultsContainer = document.getByElementById('results');
+const quizContainer = document.getElementById('quiz');
+const resultsContainer = document.getElementById('results');
 const submitButton = document.getElementById('submit');
 const myQuestions = [
   {
@@ -56,9 +56,9 @@ function buildQuiz(){
       }
       // add this question and its answers to the output
       output.push(
-        `<div class="questions"> ${currentQuestion.question} </div>`
+        `<div class="questions"> ${currentQuestion.question} </div>
 
-        `<div class="answers"> ${answers.join('')} </div>`
+        <div class="answers"> ${answers.join('')} </div>`
       );
     }
   );
