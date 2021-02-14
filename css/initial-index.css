@@ -1,0 +1,36 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@200;300;400;500&display=swap');
+
+body {
+  font-size: 20px;
+  font-family: 'Tajawal', sans-serif;
+  color: #462018;
+}
+
+.question {
+  font-weight: 400;
+}
+
+.answers{
+  margin-bottom: 20px;
+}
+
+.answer label {
+  display: block;
+}
+
+#submit{
+  font-family: 'Tajawal', sans-serif;
+  font-size: 20px;
+  background-color: #279;
+  color: #fff;
+  border: 0px;
+  border-radius: 3px;
+  padding: 20px;
+  cursor: pointer;
+  margin-bottom: 20px;
+}
+
+#submit:hover{
+  background-color: #38a;
+}
